@@ -17,7 +17,7 @@ class Main {
    
    for(int i = 0; i < firstName.length; i++); 
    if(name.equals(firstName[])){
-     System.out.println("Hey guys" + " " + fullName);
+     System.out.println("Welcome back" + " " + fullName);
    }
    }
 
